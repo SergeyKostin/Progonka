@@ -6,4 +6,4 @@
 ## Выходные данные:
 * Время вычисления на CPU
 * Время вычисления на GPU
-![img] (https://github.com/SergeyKostin/Progonka/blob/master/image.PNG)
+* ![img] (https://github.com/SergeyKostin/Progonka/blob/master/image.PNG)
